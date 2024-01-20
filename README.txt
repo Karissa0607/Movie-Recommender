@@ -1,1 +1,1 @@
-Creation of a Movie Recommender based on the TMDB movie database using cosine similarity principles to recommend a set of movies based on a movie input. 
+Creation of a Movie Recommender based on the TMDB movie database using cosine similarity principles to recommend a set of movies based on a movie input. Must download TMDB movie and credits database. https://developer.themoviedb.org/reference/keyword-movies. https://developer.themoviedb.org/reference/movie-credits.
