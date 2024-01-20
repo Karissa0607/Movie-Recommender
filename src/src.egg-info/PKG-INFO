@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Package for Movie Recommendation System
+Author: Karissa Dubreuil
+Author-email: karissadubreuil@gmail.com
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+Movie Recommendation System
