@@ -1,0 +1,1 @@
+Creation of a Movie Recommender based on the TMDB movie database using cosine similarity principles to recommend a set of movies based on a movie input. 
